@@ -1,0 +1,19 @@
+# Where every sample comes from: <path in samples/> <page of the original>. Written by fetch-samples.sh;
+# the converter links these pages in the headers of the descriptions.
+BulkData.avpr                    https://github.com/apache/avro/blob/main/share/test/schemas/BulkData.avpr
+FooBarSpecificRecord.avsc        https://github.com/apache/avro/blob/main/share/test/schemas/FooBarSpecificRecord.avsc
+RecordWithRequiredFields.avsc    https://github.com/apache/avro/blob/main/share/test/schemas/RecordWithRequiredFields.avsc
+fooBar.avsc                      https://github.com/apache/avro/blob/main/share/test/schemas/fooBar.avsc
+interop.avsc                     https://github.com/apache/avro/blob/main/share/test/schemas/interop.avsc
+mail.avpr                        https://github.com/apache/avro/blob/main/share/test/schemas/mail.avpr
+namespace.avpr                   https://github.com/apache/avro/blob/main/share/test/schemas/namespace.avpr
+reserved.avsc                    https://github.com/apache/avro/blob/main/share/test/schemas/reserved.avsc
+simple.avpr                      https://github.com/apache/avro/blob/main/share/test/schemas/simple.avpr
+weather.avsc                     https://github.com/apache/avro/blob/main/share/test/schemas/weather.avsc
+HandshakeRequest.avsc            https://github.com/apache/avro/blob/main/share/schemas/org/apache/avro/ipc/HandshakeRequest.avsc
+HandshakeResponse.avsc           https://github.com/apache/avro/blob/main/share/schemas/org/apache/avro/ipc/HandshakeResponse.avsc
+user.avsc                        https://github.com/apache/avro/blob/main/doc/examples/user.avsc
+SchemaBuilder.avsc               https://github.com/apache/avro/blob/main/lang/java/avro/src/test/resources/SchemaBuilder.avsc
+TestRecordWithLogicalTypes.avsc  https://github.com/apache/avro/blob/main/lang/java/avro/src/test/resources/TestRecordWithLogicalTypes.avsc
+TestRecordWithMapsAndArrays.avsc https://github.com/apache/avro/blob/main/lang/java/avro/src/test/resources/TestRecordWithMapsAndArrays.avsc
+TestUnionRecord.avsc             https://github.com/apache/avro/blob/main/lang/java/avro/src/test/resources/TestUnionRecord.avsc
